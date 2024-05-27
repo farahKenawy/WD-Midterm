@@ -74,7 +74,7 @@ nav ul li a {
     cursor: pointer;
 }
 
-.trusted-brands, .what-we-do, .works, .partners {
+.works, .what-we-do, .works, .partners {
     padding: 50px 20px;
     text-align: center;
 }
